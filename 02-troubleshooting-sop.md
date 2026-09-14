@@ -12,9 +12,9 @@ When an unexpected system discrepancy or high-volume access alert is flagged, ex
 
 1. **Review Activity Logs:** Access the platform's audit trail to isolate the exact timestamp, user ID, and transaction code associated with the exception.
 2. **Classify the Anomaly:** Determine whether the issue falls under one of the following categories:
-  * *Data Mismatch:* Inconsistent field mapping or failed database sync between integrated modules.
-  * *Access Irregularity:* High-volume user requests triggering compliance monitoring thresholds.
-  * *UI/UX Discrepancy:* Interface rendering errors or broken navigation pathways.
+  ** *Data Mismatch:* Inconsistent field mapping or failed database sync between integrated modules.
+  ** *Access Irregularity:* High-volume user requests triggering compliance monitoring thresholds.
+  ** *UI/UX Discrepancy:* Interface rendering errors or broken navigation pathways.
 
 
 3. **Reproduce the Issue:** Attempt to replicate the error in a controlled staging environment using identical user role parameters.
