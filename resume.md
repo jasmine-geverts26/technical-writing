@@ -62,12 +62,13 @@ Analytical and detail-driven Compliance Documentation & Systems Specialist with 
   * Associate of Science: Information Technology
 
 ---
-[← Back to Portfolio Home](README.md)
 
----
 
 ## Certifications & Languages
 * **Certifications:** Colorado Notary Public, Commission #20184041717
 * **Languages:** 
   * English (Native)
   * Spanish (CEFR A2 Elementary Proficiency; continuing professional language development)
+[← Back to Portfolio Home](README.md)
+
+---
