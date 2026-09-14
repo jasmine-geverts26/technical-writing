@@ -25,10 +25,10 @@ When an unexpected system discrepancy or high-volume access alert is flagged, ex
 
 Before filing a development ticket, document your diagnostic findings using this checklist:
 
-* 1. Captured full-screen error logs or system response codes.
-* 2. Verified that the affected user profile has the correct underlying tenant permissions.
-* 3. Checked system-wide status pages for active API bottlenecks or scheduled maintenance updates.
-* 4. Isolated whether the issue impacts a single account or is systemic across multiple user organizations.
+1. Captured full-screen error logs or system response codes.
+2. Verified that the affected user profile has the correct underlying tenant permissions.
+3. Checked system-wide status pages for active API bottlenecks or scheduled maintenance updates.
+4. Isolated whether the issue impacts a single account or is systemic across multiple user organizations.
 
 ---
 
