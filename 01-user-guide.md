@@ -1,4 +1,4 @@
-**SaaS Platform User Guide & Onboarding Walkthrough**
+## **SaaS Platform User Guide & Onboarding Walkthrough**
 
 ---
 
