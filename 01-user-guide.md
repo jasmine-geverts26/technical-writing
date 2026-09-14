@@ -59,3 +59,6 @@ Before initiating a user hierarchy update, ensure you have:
 | **Data Sync Delay (>15m)** | High-volume API traffic bottlenecking queue. | Check system status page; manually trigger a cache refresh via **Tools > System Diagnostics**. |
 
 ---
+[← Back to Portfolio Home](README.md)
+
+---
