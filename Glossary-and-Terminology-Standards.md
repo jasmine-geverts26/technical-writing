@@ -26,6 +26,6 @@ This document establishes the controlled vocabulary, standard naming conventions
 * **UI Elements:** Use bold text to designate interactive user interface components, buttons, fields, or menu paths (e.g., *Navigate to **Settings** > **Roles & Permissions** and click **Save Changes**.*).
 * **Code and Commands:** Use inline monospace text formatting for file names, directories, API endpoints, and command-line inputs (e.g., `api/v1/auth`).
 ---
-[← Back to Portfolio Home](README.md)
+[← Back to Repository Overview](https://github.com/jasmine-geverts26/technicalwriting)
 
 ---
