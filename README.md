@@ -9,5 +9,7 @@ Hello and welcome to my sample portfolio! This repository contains sample docume
 - **[03-api-integration.md](03-api-integration.md)** — **System Integration Specification:** Technical overview of data migration pipelines, system architectures, and database field-mapping rules.
 - **[04-compliance-audit-sop.md](04-compliance-audit-sop.md)** — **Regulatory Compliance SOP:** Cross-departmental compliance audit procedure complete with version control history, role-based responsibilities, and exception decision trees.
 - **[Resume-Jasmine-Geverts.md](Resume-Jasmine-Geverts.md)** — **Professional Resume:** Complete work history, technical competencies, and professional background in SaaS compliance and documentation.
+- **[Documentation Strategy & Overview](./Documentation-Strategy-Overview.md)**: High-level overview of content architecture principles, audience-tiering methodologies, and procedural governance frameworks.
+- **[Glossary & Terminology Standards](./Glossary-and-Terminology-Standards.md)**: Master index of controlled vocabulary, system terminology, and formatting guidelines used across the documentation suite.
 ---
-Prepared for technical writer and SaaS platform opportunities.
+
