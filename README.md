@@ -11,5 +11,7 @@ Hello and welcome to my sample portfolio! This repository contains sample docume
 - **[Resume-Jasmine-Geverts.md](Resume-Jasmine-Geverts.md)** — **Professional Resume:** Complete work history, technical competencies, and professional background in SaaS compliance and documentation.
 - **[Documentation Strategy & Overview](./Documentation-Strategy-Overview.md)**: High-level overview of content architecture principles, audience-tiering methodologies, and procedural governance frameworks.
 - **[Glossary & Terminology Standards](./Glossary-and-Terminology-Standards.md)**: Master index of controlled vocabulary, system terminology, and formatting guidelines used across the documentation suite.
----
 
+
+---
+*This portfolio repository is maintained by Jasmine Geverts and is made available under the [MIT License](./LICENSE). See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.*
