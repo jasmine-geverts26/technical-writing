@@ -44,6 +44,6 @@ If the root cause cannot be resolved at the administrative level, submit a struc
 > **Note:** Complete documentation shortens ticket resolution cycles and ensures engineering teams have precise data inputs for debugging.
 
 ---
-[← Back to Portfolio Overview](./README.md)
+[← Back to Repository Overview](https://github.com/jasmine-geverts26/technicalwriting)
 
 ---
