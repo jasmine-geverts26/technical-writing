@@ -90,7 +90,7 @@ Is business registration active in state registry?
 3. Maintain audit trails in the central knowledge repository until re-credentialing documentation is formally approved.
 >See **Product Unfreeze Process Document** once client product access is approved to be reinstated by Compliance Specialist. 
 ---
-[← Back to Portfolio Home](Hello-Please-Read-Me.md)
+[← Back to Portfolio Home](README.md)
 
 ---
 
