@@ -18,6 +18,6 @@ This repository houses core examples of technical writing, operational procedure
 * **API Integrations:** Developer-facing specifications detailing endpoints, payload structures, authentication flows, and error handling.
 * **Compliance Audit SOPs:** Governance-focused artifacts establishing internal controls, data integrity standards, and verification workflows.
 ---
-[← Back to Portfolio Home](README.md)
+[← Back to Repository Overview](https://github.com/jasmine-geverts26/technicalwriting)
 
 ---
