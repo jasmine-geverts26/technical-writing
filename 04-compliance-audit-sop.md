@@ -21,8 +21,6 @@ This Standard Operating Procedure (SOP) defines the mandatory protocol for condu
 | Role | Core Responsibilities in Audit Lifecycle |
 | --- | --- |
 | **Compliance Specialist** | Executes primary credentialing checks via Westlaw and state registries; investigates account anomalies; logs audit findings.
-
- |
 | **System Administrator** | Implements account status changes, adjusts user permission tiers, and enforces tenant environment security restrictions. |
 | **Task Force Lead** | Reviews escalated exception files, authorizes contract affidavits, and signs off on high-risk credential overrides. | 
 | **Client Account Manager** | Maintains communication with client for any additional documenation or data needed for the process, provides updates or simple check-ins with client during process, notifies internal teams of any changes client communicates for account when applicable. | 
