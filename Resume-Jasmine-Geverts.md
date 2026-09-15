@@ -71,6 +71,6 @@ Analytical and detail-driven Compliance Documentation & Systems Specialist with 
   * Spanish (CEFR A2 Elementary Proficiency; continuing professional language development)
 
 ---
-[← Back to Portfolio Home](Hello-Please-Read-Me.md)
+[← Back to Portfolio Home](README.md)
 
 ---
