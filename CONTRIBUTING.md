@@ -9,3 +9,5 @@ However, if you spot a typo, broken link, or have constructive feedback regardin
 2. Fork the repository and adapt patterns for your own use (retaining proper attribution under the MIT License).
 
 Thank you for visiting!
+---
+[← Back to Repository Overview](https://github.com/jasmine-geverts26/technicalwriting)
